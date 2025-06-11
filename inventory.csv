@@ -1,0 +1,16 @@
+item_id,item_name,warehouse_id,quantity_on_hand,reorder_point
+101,Item1,W3,122,32
+102,Item2,W3,199,51
+103,Item3,W1,112,50
+104,Item4,W2,34,31
+105,Item5,W3,126,53
+106,Item6,W1,91,41
+107,Item7,W2,40,59
+108,Item8,W2,122,35
+109,Item9,W3,141,31
+110,Item10,W1,94,57
+111,Item11,W1,107,50
+112,Item12,W1,136,30
+113,Item13,W3,119,41
+114,Item14,W3,123,55
+115,Item15,W3,171,51
